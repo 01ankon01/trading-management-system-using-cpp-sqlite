@@ -32,7 +32,7 @@ The objective of this project is to provide users with a user-friendly interface
 3. Compile the application:
 
     ```bash
-    g++ main.cpp -o main -lsqlite3
+    g++ main.cpp -o executables -lsqlite3
     ```
 
 ## Usage
@@ -40,7 +40,7 @@ The objective of this project is to provide users with a user-friendly interface
 1. Start the application:
 
     ```bash
-    ./main
+    ./executables
     ```
 
 2. Sign in or register as a new user.
