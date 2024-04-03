@@ -70,3 +70,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For any inquiries or support, please [open an issue](https://github.com/01ankon01/trading-management-system/issues) on GitHub.
+
+## Here are some pictures
+
+![Trading Management System](1.png)
+![Trading Management System](2.png)
+
+
